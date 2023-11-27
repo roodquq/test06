@@ -8,3 +8,4 @@ git commit -m "信息"
 
 git pull #④把远程仓库拉到本地
 git push #⑤把本地仓库推送到远程
+1111
